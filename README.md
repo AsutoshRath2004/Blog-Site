@@ -1,8 +1,17 @@
-# React + Vite
+# Blog Site
+A blog site built with Vite, React, and Appwrite, featuring Gmail authentication for login and sign-up. Users can create, edit, and delete blog posts, with TinyMCE used to style and format blog text.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Features
+ - Gmail Authentication: Register or log in using your Gmail account.
+ - Blog Management: Add, edit, and delete blog posts with ease.
+ - Text Editor: Utilize TinyMCE for rich text editing, including styling and formatting options.
+ - Real-Time Updates: See changes immediately thanks to the Appwrite backend.
 
-Currently, two official plugins are available:
+# Usage
+ - Sign Up / Log In: Register or log in using Gmail.
+ - Create a Blog Post: Use TinyMCE to write and style blog content.
+ - Edit / Delete Posts: Manage existing posts directly within the site.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Technologies Used
+ - Frontend: Vite, React, TinyMCE
+ - Backend: Appwrite (handles authentication and real-time database updates)   
