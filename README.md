@@ -13,13 +13,13 @@ A blog site built with Vite, React, and Appwrite, featuring Gmail authentication
  - Edit / Delete Posts: Manage existing posts directly within the site.
 
 # Technologies Used
-   ## Frontend:
+ ## Frontend:
 
-HTML: The structure and foundation of the site.
-Tailwind CSS: For responsive styling and modern UI design.
-Vite: Provides fast build and hot module replacement during development.
-React: For building the dynamic user interface and component-based structure.
-TinyMCE: Rich text editor for creating and styling blog content.
-Backend:
+ - HTML: The structure and foundation of the site.
+ - Tailwind CSS: For responsive styling and modern UI design.
+ - Vite: Provides fast build and hot module replacement during development.
+ - React: For building the dynamic user interface and component-based structure.
+ - TinyMCE: Rich text editor for creating and styling blog content.
+ ## Backend:
 
-Appwrite: Handles user authentication, database management, and storage for blog content and media files.  
+ - Appwrite: Handles user authentication, database management, and storage for blog content and media files.  
